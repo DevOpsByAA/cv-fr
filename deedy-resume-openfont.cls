@@ -75,7 +75,7 @@ Last Updated on
 
 % Runsubsection lowercase variant
 \newcommand{\runsubsectionlower}[1]{\color{subheadings}
-\fontspec[Path = fonts/raleway/]{Raleway-Medium}\fontsize{12pt}{12pt}\selectfont\bfseries {#1} \normalfont}
+\fontspec[Path = fonts/raleway/]{Raleway-Medium}\fontsize{11pt}{10pt}\selectfont\bfseries {#1} \normalfont}
 
 % Descriptors command
 \newcommand{\descript}[1]{\color{subheadings}\raggedright\scshape\fontspec[Path = fonts/raleway/]{Raleway-Medium}\fontsize{11pt}{13pt}\selectfont {#1} \normalfont}
@@ -90,7 +90,7 @@ Last Updated on
 \newcommand{\location}[1]{\color{headings}\raggedright\fontspec[Path = fonts/raleway/]{Raleway-Medium}\fontsize{11pt}{13pt}\selectfont {#1} \normalfont}
 
 % Skilldescript command
-\newcommand{\skilldescript}[1]{\color{headings}\raggedright\scshape\fontspec[Path = fonts/raleway/]{Raleway-Light}\fontsize{11pt}{11pt}\selectfont {#1} \normalfont}
+\newcommand{\skilldescript}[1]{\color{headings}\raggedright\scshape\fontspec[Path = fonts/raleway/]{Raleway-Light}\fontsize{11pt}{10pt}\selectfont {#1} \normalfont}
 
 % SkillList command
 \newcommand{\skillslist}[1]{\color{headings}\raggedright\fontspec[Path = fonts/raleway/]{Raleway-Light}\fontsize{11pt}{13pt}\selectfont {#1} \normalfont}
